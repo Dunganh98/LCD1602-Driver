@@ -1,4 +1,4 @@
-# LCD1620-Driver
+# LCD1602-Driver
 ## Overview
 for HD44780 1602 display module
 work well on STM32Cube IDE
