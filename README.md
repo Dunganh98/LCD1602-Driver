@@ -18,4 +18,4 @@ runLcdTest();
 ######
 it may has some problem with undefined header. 
 Using relative path should solves the problem.  
-Or put all the .cpp in Src-folder and .h files in Inc-folders.
+Or put all the .cpp in Src-folder and .h files in Inc-folder.
